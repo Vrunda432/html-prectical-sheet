@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+    <title>Image Map All Shapes</title>
+<body>
+    <img src="MyMap.gif" alt="Image Map" usemap="#MyImageMap">
+
+    <map name="MyImageMap">
+      <area shape="rect" coords="8,13,130,123"
+        href="#LINK1" alt="Determining Mapped Areas"/>
+      <area shape="circle" coords="228,123,62"
+        href="#LINK2" alt="Coding an Image Map"/>
+      <area shape="poly" coords="100,144,175,200,155,255,50,250,45,175"
+        href="#LINK3" alt="Overlapped Mapped Areas"/>
+    </map>
+</body>
+</html>
