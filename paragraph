@@ -1,6 +1,6 @@
 <html>
     <body>
-        <abber title="Hypertext markup language">HTML</abber>elements are the building block of HTML pages.With HTML constructs,images and other objects such as interactive forms may be embedded into the rendered page.<br>HTML provides a means to create structured documents by denoting structural semantics for text such as <B><em>heading,paragraphs,lists,links,quotes and other item.</em></B><br>
+        <abbr title="Hypertext markup language">HTML</abbr>elements are the building block of HTML pages.With HTML constructs,images and other objects such as interactive forms may be embedded into the rendered page.<br>HTML provides a means to create structured documents by denoting structural semantics for text such as <B><em>heading,paragraphs,lists,links,quotes and other item.</em></B><br>
         HTML element are delineated by tags,wriiten using <u>angle brackets</u>.Tags such as and <code style="color: chartreuse;">&lt;img/&gt;</code>and<code style="color: chartreuse;">&lt;input/&gt;</code> directly introduce content into the page.<br>Other tags such as<code style="color: chartreuse;">&lt;p&gt;</code> surround and provide information about document text and may include other tags as sub-elements.<br>Browsers do not display the HTML tags but use them to interpret the content of the page.</p>
 </body>
 </html>
