@@ -11,7 +11,7 @@
         <div style="width: 800px">
             <table border="0">
                 <tr>
-                    <th style="background-color: black width:900px; color:white;">invoice </th>
+                    <th style="background-color: black width:900px; color:white;"> invoice </th>
                 </tr>
                 <table align="left">
                     <tr>
@@ -50,7 +50,7 @@
                         <td>item</td>
                         <td>description</td>
                         <td>rate</td>
-                        <td>quantity</td.
+                        <td>quantity</td>
                         <td>price</td>
                         </tr>
                         <tr>
